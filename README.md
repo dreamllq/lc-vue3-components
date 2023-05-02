@@ -10,6 +10,7 @@
 | 异步数据选择组件 | [vue-biz-select](https://github.com/dreamllq/vue-biz-select) |
 | 过滤器组件 | [vue-form-filter](https://github.com/dreamllq/vue-form-filter) |
 | 文字自动tooltip组件 | [vue-text-tip](https://github.com/dreamllq/vue-text-tip) |
+| 高级table (开发中) | [vue-pro-table](https://github.com/dreamllq/vue-pro-table) |
 
 ## 组件项目模板
 
