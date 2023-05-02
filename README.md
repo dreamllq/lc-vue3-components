@@ -11,3 +11,7 @@
 | 过滤器组件 | [vue-form-filter](https://github.com/dreamllq/vue-form-filter) |
 | 文字自动tooltip组件 | [vue-text-tip](https://github.com/dreamllq/vue-text-tip) |
 
+## 组件项目模板
+
+[vite-vue3-ts-component-template](https://github.com/dreamllq/vite-vue3-ts-component-template)
+
