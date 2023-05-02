@@ -1,4 +1,4 @@
-# lc-vue3-component
+# lc-vue3-components
 
 封装的常用组件
 ## 组件列表
