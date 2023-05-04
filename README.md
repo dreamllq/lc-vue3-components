@@ -12,6 +12,7 @@
 | 文字自动tooltip组件 | [vue-text-tip](https://github.com/dreamllq/vue-text-tip) |
 | 高级table (开发中) | [vue-pro-table](https://github.com/dreamllq/vue-pro-table) |
 | 简单grid布局 | [vue-grid-layout-wrapper](https://github.com/dreamllq/vue-grid-layout-wrapper) |
+| 高性能树 | [vue-virtual-tree](https://github.com/dreamllq/vue-virtual-tree) |
 
 ## 组件项目模板
 
