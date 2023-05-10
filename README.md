@@ -18,3 +18,9 @@
 
 [vite-vue3-ts-component-template](https://github.com/dreamllq/vite-vue3-ts-component-template)
 
+## 工具
+
+| 序号 | 工具名 | 项目 |
+| ---- | ---- | ---- |
+| 1 | 能够异步执行的debunce | [simple-async-debounce](https://github.com/dreamllq/simple-async-debounce) |
+
