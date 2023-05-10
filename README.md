@@ -25,4 +25,6 @@
 | 1 | 能够异步执行的debunce | [simple-async-debounce](https://github.com/dreamllq/simple-async-debounce) |
 | 2 | deferred封装 | [simple-deferred2](https://github.com/dreamllq/simple-deferred2) |
 | 3 | 异步合并方法 | [simple-async-combine](https://github.com/dreamllq/simple-async-combine) |
+| 4 | 异步批处理分片 | - |
+| 5 | 异步逻辑处理 | - |
 
