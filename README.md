@@ -23,4 +23,5 @@
 | 序号 | 工具名 | 项目 |
 | ---- | ---- | ---- |
 | 1 | 能够异步执行的debunce | [simple-async-debounce](https://github.com/dreamllq/simple-async-debounce) |
+| 2 | deferred封装 | [simple-deferred2](https://github.com/dreamllq/simple-deferred2) |
 
