@@ -27,4 +27,5 @@
 | 3 | 异步合并方法 | [simple-async-combine](https://github.com/dreamllq/simple-async-combine) |
 | 4 | 异步批处理分片 | [simple-async-fragmentation](https://github.com/dreamllq/simple-async-fragmentation) |
 | 5 | 异步逻辑处理 | [simple-async-logic](https://github.com/dreamllq/simple-async-logic) |
+| 6 | 延迟方法 | [simple-async-delay](https://github.com/dreamllq/simple-async-delay) |
 
