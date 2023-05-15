@@ -12,6 +12,7 @@
 | 5 | 文字自动tooltip组件 | [vue-text-tip](https://github.com/dreamllq/vue-text-tip) |
 | 6 | 简单grid布局 | [vue-grid-layout-wrapper](https://github.com/dreamllq/vue-grid-layout-wrapper) |
 | 7 | 高性能树 | [vue-virtual-tree](https://github.com/dreamllq/vue-virtual-tree) |
+| 8 | 封装的菜单组件 | [vue-biz-menu](https://github.com/dreamllq/vue-biz-menu) |
 
 ## 组件项目模板
 
