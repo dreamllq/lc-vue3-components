@@ -13,6 +13,7 @@
 | 6 | 简单grid布局 | [vue-grid-layout-wrapper](https://github.com/dreamllq/vue-grid-layout-wrapper) |
 | 7 | 高性能树 | [vue-virtual-tree](https://github.com/dreamllq/vue-virtual-tree) |
 | 8 | 封装的菜单组件 | [vue-biz-menu](https://github.com/dreamllq/vue-biz-menu) |
+| 9 | 拖拽排序组件（基于sortablejs） | [vue-sortablejs-wrapper](https://github.com/dreamllq/vue-sortablejs-wrapper) |
 
 ## 组件项目模板
 
