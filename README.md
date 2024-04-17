@@ -15,7 +15,8 @@
 | 8 | 封装的菜单组件 | [vue-biz-menu](https://github.com/dreamllq/vue-biz-menu) |
 | 9 | 拖拽排序组件（基于sortablejs） | [vue-sortablejs-wrapper](https://github.com/dreamllq/vue-sortablejs-wrapper) |
 | 10 | 选择器样式组件 | [vue-select-input](https://github.com/dreamllq/vue-select-input) |
-
+| 11 | 复杂异步数据选择组件 | [vue-biz-complex-select](https://github.com/dreamllq/vue-biz-complex-select) |
+| 12 | flex布局组件 | [vue-flex](https://github.com/dreamllq/vue-flex) |
 
 ## 组件项目模板
 
@@ -31,4 +32,6 @@
 | 4 | 异步批处理分片 | [simple-async-fragmentation](https://github.com/dreamllq/simple-async-fragmentation) |
 | 5 | 异步逻辑处理 | [simple-async-logic](https://github.com/dreamllq/simple-async-logic) |
 | 6 | 延迟方法 | [simple-async-delay](https://github.com/dreamllq/simple-async-delay) |
+| 7 | url序列化 | [simple-url-stringify](https://github.com/dreamllq/simple-url-stringify) |
+
 
