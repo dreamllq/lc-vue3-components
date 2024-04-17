@@ -17,6 +17,7 @@
 | 10 | 选择器样式组件 | [vue-select-input](https://github.com/dreamllq/vue-select-input) |
 | 11 | 复杂异步数据选择组件 | [vue-biz-complex-select](https://github.com/dreamllq/vue-biz-complex-select) |
 | 12 | flex布局组件 | [vue-flex](https://github.com/dreamllq/vue-flex) |
+| 13 | 新增/创建弹窗 | [vue-biz-cu-dialog](https://github.com/dreamllq/vue-biz-cu-dialog) |
 
 ## 组件项目模板
 
